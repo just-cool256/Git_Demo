@@ -1,0 +1,3 @@
+TASK TO DO:
+Create a branch for developing and testing a feature
+Then merger that feature back to main branch after building it successfully
