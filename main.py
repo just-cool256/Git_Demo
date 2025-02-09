@@ -1,2 +1,2 @@
-first_name = input("Enter your name: ")
-print("Welcome ",first_name,"  to Git Demo!")
+full_name = input("Enter your name: ")
+print("Welcome ",full_name,"  to Git Demo!")
